@@ -28,7 +28,7 @@ Esta es una aplicación de calculadora básica desarrollada en HTML, CSS y JavaS
 2. Crea una nueva rama.
 3. Realiza tus cambios y haz commit.
 4. Sube tus cambios.
-5. Abre una solicitud de extracción.
+5. Abre una solicitud de extracción
 
 ## Tecnologías utilizadas
 
